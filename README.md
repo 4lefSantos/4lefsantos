@@ -2,7 +2,7 @@
 
 **`Economista | Análise e Ciência de Dados | Pesquisador`**
 
-Eu sou o Alef Santos, formando em economia pela Universidade Federal de Goiás (UFG) e atualmente trabalho como pesquisador em um laboratório vinculado a UFG com viés quantitativista. Meu fascínio pela ciência de dados surgiu com "[Sandro Eduardo Monsueto](http://lattes.cnpq.br/5484881117429853)" nas disciplinas de Econometria I e II e tópicos avançados em econometria, e que também foi meu orientador no meu projeto de monografia. Recentemente iniciei meu canal no YouTube "[Pesquisando com Dados](https://www.youtube.com/@pesquisandocomdados)", dedicado a mostrar como utlizei a análise e ciência de dados nos meus projetos.
+Eu sou o Alef Santos, formando em economia pela Universidade Federal de Goiás (UFG) e atualmente trabalho como pesquisador em um laboratório vinculado a UFG com viés quantitativista. Meu fascínio pela ciência de dados surgiu com "[Sandro Eduardo Monsueto](http://lattes.cnpq.br/5484881117429853)" nas disciplinas de Econometria I e II e tópicos avançados em econometria, e que também foi meu orientador no meu projeto de monografia. Recentemente iniciei meu canal no YouTube "[Pesquisando com Dados](https://www.youtube.com/@pesquisandocomdados)", dedicado a mostrar como utilizei a análise e ciência de dados nos meus projetos.
 
 <p align="left">
     <a href="https://www.youtube.com/@pesquisandocomdados?sub_confirmation=1">
